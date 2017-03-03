@@ -5,6 +5,6 @@ Our project for the hackUPC winter 2017.
 The plan for this hackathon is to implement a Matlab program to an Arduino, well... to a cloned board.
 
 ## Team
-* @mrrobb
-* @mcm2678
-* @gus
+* @github/mrrobb
+* @github/mcm2678
+* @github/XxerixX
