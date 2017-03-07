@@ -1,3 +1,4 @@
+path = [];
 while isempty(path)
     % No feasible path found yet, increase the number of nodes
     prm.NumNodes = prm.NumNodes + 10;
