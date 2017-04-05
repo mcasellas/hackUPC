@@ -19,10 +19,8 @@ So… I left my project apart and I focused on trying to win The Game.
 
 Here is the result:
 
-![][image-1]
+![Top 10](https://goo.gl/photos/AZDsdgJkofCLWnDN9)
 
 [1]:	https://github.com/MrRobb
 [2]:	https://github.com/mcm2678
 [3]:	https://github.com/XxerixX
-
-[image-1]:	https://goo.gl/photos/jf5bkaTPGN1RKbTm8 "Top 10"
