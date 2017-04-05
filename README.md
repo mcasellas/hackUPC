@@ -19,7 +19,7 @@ So… I left my project apart and I focused on trying to win The Game.
 
 Here is the result:
 
-![Top 10](https://goo.gl/photos/AZDsdgJkofCLWnDN9)
+![Top 10](https://cloud.githubusercontent.com/assets/7969569/24686026/801d5cb6-19b1-11e7-9b4d-7ed6ec463ac0.jpg)
 
 [1]:	https://github.com/MrRobb
 [2]:	https://github.com/mcm2678
